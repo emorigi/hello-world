@@ -1,4 +1,6 @@
 # hello-world
-prova d'uso..
 
-modifica master dopo modifica branch e prima del commit del branch
+Raccolta di script "Hello World" in vari linguaggi
+
+- perl
+- php
